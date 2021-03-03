@@ -22,7 +22,7 @@ pod 'MMSlider'
 
 ## Author
 
-Monang Champaneri, monang.champaneri@iottive
+Monang Champaneri, monang.1995@gmail.com
 
 ## License
 
