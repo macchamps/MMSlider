@@ -1,0 +1,35 @@
+PODS:
+  - AvailableHapticFeedback (1.0.2)
+  - MMSlider (1.0.0):
+    - AvailableHapticFeedback
+    - SweeterSwift
+  - Nimble (8.0.9)
+  - Quick (2.2.1)
+  - SweeterSwift (1.1.4)
+
+DEPENDENCIES:
+  - MMSlider (from `../`)
+  - Nimble (~> 8.0.7)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - AvailableHapticFeedback
+    - Nimble
+    - Quick
+    - SweeterSwift
+
+EXTERNAL SOURCES:
+  MMSlider:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AvailableHapticFeedback: 9b21b9f6d3e4566015988b5de35b40abefe6c09a
+  MMSlider: f35c6db030cb058c162b2bd789c09f57e6c22355
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+  SweeterSwift: 8a90cf3156f5a1b6f39785c479369a16633b5ea9
+
+PODFILE CHECKSUM: 64a158b0ca3d963314216665a5a814467707a550
+
+COCOAPODS: 1.10.1

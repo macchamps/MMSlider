@@ -1,0 +1,6 @@
+framework module Pods_MMSlider_Example {
+  umbrella header "Pods-MMSlider_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
