@@ -1,6 +1,6 @@
 # MMSlider
 
-[![CI Status](https://img.shields.io/travis/Monang Champaneri/MMSlider.svg?style=flat)](https://travis-ci.org/Monang Champaneri/MMSlider)
+[![CI Status](https://img.shields.io/travis/macchamps/MMSlider.svg?style=flat)](https://travis-ci.org/macchamps/MMSlider)
 [![Version](https://img.shields.io/cocoapods/v/MMSlider.svg?style=flat)](https://cocoapods.org/pods/MMSlider)
 [![License](https://img.shields.io/cocoapods/l/MMSlider.svg?style=flat)](https://cocoapods.org/pods/MMSlider)
 [![Platform](https://img.shields.io/cocoapods/p/MMSlider.svg?style=flat)](https://cocoapods.org/pods/MMSlider)
