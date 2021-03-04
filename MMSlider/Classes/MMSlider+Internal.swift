@@ -256,6 +256,7 @@ extension MMSlider {
         let valueLabel = UITextField()
         valueLabel.borderStyle = .none
         slideView.addSubview(valueLabel)
+        valueLabel.textColor = valueLabelColor ?? valueLabel.textColor
         valueLabel.translatesAutoresizingMaskIntoConstraints = false
         let thumbView = thumbViews[i]
         slideView.constrain(valueLabel, at: valueLabelPosition.perpendicularCenter, to: thumbView)
